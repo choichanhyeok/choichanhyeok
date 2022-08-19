@@ -8,7 +8,7 @@
 
 ---
 ### :woman_technologist: &nbsp;About Me
-I want to be the greatest developer in the universe.<br>
+I want to be the greatest developer in the all universe.<br>
 It will be a very long journey, but I will take a [step](https://github.com/choichanhyeok/A_LearningRecord) forward without being overwhelmed by fear. 
 I am very grateful for this journey.
 
